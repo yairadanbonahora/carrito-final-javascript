@@ -1,0 +1,65 @@
+[
+    {"id": 1,
+    "name": "Caños",
+    "price": 5000,
+    "quantity": 0,
+    "stock": 300,
+    "image": "fotos/canios.jpg"
+    },
+
+    {"id": 2,
+    "name": "Agujereadora de banco",
+    "price": 35000,
+    "quantity": 0,
+    "stock": 60,
+    "image": "fotos/agujereadora.jpg"
+    },
+
+    {"id": 3,
+    "name": "Balancín",
+    "price": 250000,
+    "quantity": 0,
+    "stock": 30,
+    "image": "fotos/balancin.jpg"
+    },
+
+    {"id": 4,
+    "name": "Chapa",
+    "price": 8000,
+    "quantity": 0,
+    "stock": 100,
+    "image": "fotos/chapa-estampada.jpg"
+    },
+
+    {"id": 5,
+    "name": "Discos",
+    "price": 1300,
+    "quantity": 0,
+    "stock": 246,
+    "image": "fotos/discos.jpg"
+    },
+
+    {"id": 6,
+    "name": "Cortadora de fierros", 
+    "price": 80000,
+    "quantity": 0,
+    "stock": 20,
+    "image": "fotos/cortadora-fierros.jpg"
+    },
+
+    {"id": 7,
+    "name": "Cortadora de chapas",
+    "price": 2500000,
+    "quantity": 0,
+    "stock": 15,
+    "image": "fotos/cortadora-chapas.jpg"
+    },
+
+    {"id": 8,
+    "name": "Plegadora de chapas", 
+    "price": 3500000,
+    "quantity": 0,
+    "stock": 12,
+    "image": "fotos/plegadora-chapas.jpg"
+    } 
+]

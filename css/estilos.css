@@ -1,0 +1,68 @@
+/*Nav bar*/
+.container-fluid h1 {
+    color: black; }
+  
+  .container-fluid .nav-link {
+    border-bottom: 1px solid black; }
+  
+  /*Footer*/
+  .footer {
+    background-color: #e2e5e5;
+    color: black; }
+  
+  .inicio-footer {
+    padding: 30px 60px; }
+  
+  .footer-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 20px 60px; }
+    .footer-container .footer-info ul {
+      margin-right: 100px;
+      margin-bottom: 30px; }
+      .footer-container .footer-info ul li {
+        list-style-type: none;
+        font-weight: bold;
+        line-height: 30px; }
+
+
+/*Cards*/
+
+.card-product {
+    width: 400px;
+    height: 450px;
+    margin: 20px;
+}
+
+.card-img-top {
+    max-width: 300px;
+    max-height: 350px;
+}
+
+/* .name-carrito {
+  text-align: center;
+} */
+
+#cart {
+  display: none;
+  text-align: center;
+  width: 600px;
+  height: auto;
+  margin: 40px;
+  padding: 40px;
+  border-style: solid;
+  background-color: rgb(208, 224, 224);
+}
+
+#finalForm {
+  display: none;
+  margin: 40px;
+  border-style: solid;
+  padding: 40px;
+}
+
+.titleForm {
+  text-align: center;
+}
